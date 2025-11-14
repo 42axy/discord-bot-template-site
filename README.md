@@ -1,4 +1,4 @@
-Mace Bot website, free to use for your own bot 
+Discord bot template site, made by Axy, free to use for your own bot 
 
 To change the colors go to styles.css and change the color on main-color and --secondary. Changing the background color is also allowed, but not recomened as the text doesn't use variables, and somethings may end up looking bad.
 
